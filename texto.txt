@@ -20,3 +20,9 @@ babel
 
 html 
 npm i html-webpack-plugin -D
+
+css
+npm i mini-css-extract-plugin css-loader -D
+
+error npm install stylus stylus-loader -D
+npm install stylus stylus-loader -D
