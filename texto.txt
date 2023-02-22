@@ -26,3 +26,15 @@ npm i mini-css-extract-plugin css-loader -D
 
 error npm install stylus stylus-loader -D
 npm install stylus stylus-loader -D
+
+npm i copy-webpack-plugin -D
+
+npm install url-loader file-loader -D
+
+Hashes 
+npm i css-minimizer-webpack-plugin terser-webpack-plugin -D
+
+variables de entorno
+npm i dotenv-webpack -D
+
+npm install clean-webpack-plugin -D limpiar
